@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/yolo">
+        <file>F:/YOLO/yolov3.cfg</file>
+        <file>F:/YOLO/yolov3.weights</file>
+    </qresource>
+</RCC>
