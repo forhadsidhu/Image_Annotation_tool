@@ -16,4 +16,6 @@
 |  prev                                             | for opening the previous image                                            |
 |  Next                                             | for opening the Next image                                                |
 
+# ***There are some issues which will be solved soon***
+
 # :smile: Happy ~~Coding~~ Contributing :two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts:
