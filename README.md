@@ -15,7 +15,11 @@
 |  Open                                             | for opening the folder directory                                          |
 |  prev                                             | for opening the previous image                                            |
 |  Next                                             | for opening the Next image                                                |
-
-# ***There are some issues which will be solved soon***
+# ***Rules and issues***
++ There are some issues which will be solved soon
++ After completing the annotating the object press right button
++ For cancelling this object annotation press cancel button
++ To want save all annotation till now, press save button
++ All annatation will save on the text file in input directory
 
 # :smile: Happy ~~Coding~~ Contributing :two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts:
